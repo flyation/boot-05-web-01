@@ -1,0 +1,10 @@
+spring:
+  mvc:
+#    \u9759\u6001\u8D44\u6E90\u8BBF\u95EE\u8DEF\u5F84\uFF08\u9ED8\u8BA4/**\uFF09
+#    static-path-pattern: /res/**
+  web:
+    resources:
+#      \u662F\u5426\u5F00\u542F\u9759\u6001\u8D44\u6E90\u6620\u5C04\uFF08\u9ED8\u8BA4\u5F00\u542F\uFF09
+#      add-mappings: false
+#     \u9759\u6001\u8D44\u6E90\u76EE\u5F55\uFF08\u9ED8\u8BA4classpath:/META-INF/resources/, classpath:/resources/, classpath:/static/, classpath:/public/\uFF09
+#      static-locations: classpath:/haha/
